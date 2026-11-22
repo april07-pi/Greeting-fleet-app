@@ -1,0 +1,6 @@
+{
+  "name": "Flet Greeting App Studio",
+  "description": "Interactive Python Flet Greeting App simulator, live page.update() tracer, downloadable greeting_app.py source, and PNG screenshot generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
